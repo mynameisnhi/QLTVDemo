@@ -5,7 +5,8 @@ int main() {
 	cout<<"Hello";
 	cout<<"Anh Huynh";
 	cout<<"Tuyet Nhi";
-	//Modified by Tuyet Nhi
-	//TRen branch moi 
+	//Commnet by Anh Huynh
+	//Ahihi cho Anh
+	//Anh Huynh comment lan 2
 	return 0;
 }
